@@ -1,7 +1,7 @@
 var axios = require('axios')
 
 var mainUrl = process.env.HISTORY_URL;
-console.log('mainUrl is ' + mainUrl)
+
 module.exports = {
 
   // user name is defined as ip address
